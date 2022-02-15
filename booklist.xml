@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bookstore>
+
+<book category="COOKING">
+  <title lang="en">Everyday Italian</title>
+  <author>Giada De Laurentiis</author>
+  <year>2005</year>
+  <price>30.00</price>
+  <PUBLICATION>KKR</PUBLICATION>
+  <COPIESSOLD>1000</COPIESSOLD>
+  <DATEOFRELEASE>12/1/2007</DATEOFRELEASE>
+</book>
+
+<book category="CHILDREN">
+  <title lang="en">Harry Potter</title>
+  <author>J K. Rowling</author>
+  <year>2005</year>
+  <price>29.99</price>
+  <PUBLICATION>SSK</PUBLICATION>
+  <COPIESSOLD>1300</COPIESSOLD>
+  <DATEOFRELEASE>11/11/2006</DATEOFRELEASE>
+</book>
+
+<book category="WEB">
+  <title lang="en">XQuery Kick Start</title>
+  <author>James McGovern</author>
+  <author>Per Bothner</author>
+  <author>Kurt Cagle</author>
+  <author>James Linn</author>
+  <author>Vaidyanathan Nagarajan</author>
+  <year>2003</year>
+  <price>49.99</price>
+  <PUBLICATION>AAD</PUBLICATION>
+  <COPIESSOLD>2000</COPIESSOLD>
+  <DATEOFRELEASE>1/1/2001</DATEOFRELEASE>
+</book>
+
+<book category="WEB">
+  <title lang="en">Learning XML</title>
+  <author>Erik T. Ray</author>
+  <year>2003</year>
+  <price>39.95</price>
+  <PUBLICATION>EER</PUBLICATION>
+  <COPIESSOLD>999</COPIESSOLD>
+  <DATEOFRELEASE>2/11/2002</DATEOFRELEASE>
+</book>
+
+</bookstore>
